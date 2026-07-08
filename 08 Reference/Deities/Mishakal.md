@@ -1,0 +1,2 @@
+## Artifacts
+- [[Blue Crystal Staff]]

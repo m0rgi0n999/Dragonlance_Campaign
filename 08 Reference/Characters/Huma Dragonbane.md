@@ -2,17 +2,14 @@
 
 Hero of the Third Dragon War.
 
-## Key Facts
+Knight of Solamnia.
 
-- Knight of Solamnia
-- Ally of [[Magius]]
-- Rode [[Heart]]
-- Wielded a [[Dragonlance]]
-- Defeated [[Takhisis]]
+Defeated Takhisis.
 
-## Related Notes
+Allies:
+- Magius
+- Heart
 
-- [[Third Dragon War]]
-- [[Knigths of Solamnia]]
-- [[Magius]]
-- [[Heart]]
+Related:
+- Third Dragon War
+- Dragonlances

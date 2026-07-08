@@ -45,9 +45,7 @@ The Dragonarmies march across Ansalon while rumors spread of dragons returning t
 
 # Player Characters
 
-- [[Aramil]]
-- [[Thorgar]]
-- [[Kara]]
+- TBD
 
 ---
 
@@ -133,7 +131,7 @@ The Dragonarmies march across Ansalon while rumors spread of dragons returning t
 ## Deities
 
 - [[Paladine]]
-- [[Mishakal]]
+- [[08 Reference/Deities/Mishakal]]
 - [[Takhisis]]
 
 ## Important Historical Events
